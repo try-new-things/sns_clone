@@ -1,1 +1,2 @@
-#Clone Social Media Web site by MEAN Stack
+# sns_clone
+Social network service clone by MEAN Stack
